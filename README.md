@@ -1,2 +1,2 @@
 # YulaOS
-A basic x86-64 operating system written in rust !
+A basic x86-64 operating system written in rust.
